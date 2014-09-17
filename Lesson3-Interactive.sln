@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lesson3-Interactive", "Lesson3-Interactive\Lesson3-Interactive.vbproj", "{36CCA094-34D6-4BD9-B457-E74CF3C7594D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CCA094-34D6-4BD9-B457-E74CF3C7594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CCA094-34D6-4BD9-B457-E74CF3C7594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CCA094-34D6-4BD9-B457-E74CF3C7594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CCA094-34D6-4BD9-B457-E74CF3C7594D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
